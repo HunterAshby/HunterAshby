@@ -1,6 +1,6 @@
 ### Hello
 My name is Hunter Ashby. I am a new dev in the data science field.  
-I have a passion for tech and numbers and am extremely excited to find my first job.
+I have a passion for tech and numbers and am looking for a career path upwards
 
 ##### Find out more about me:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/hunter-ashby/)  
